@@ -1,0 +1,17 @@
+> non-screenshots are too big!
+
+> Expand to text vertically
+
+> Remove OnUpdate() from: Buttons
+
+> Make dialog -> color rectangle (?)
+
+> Bring vertical slider to the same level as horizontal slider
+
+> perhaps use checks in setters to prevent stack overflow (label)
+
+> Using nodes through global usings directly is bad
+
+> Switch the rest of the alignments
+
+> word deletion for lineedit

@@ -1,0 +1,6 @@
+﻿[MainScene "Root"]
+
+[VideoPlayer "VideoPlayer" "Root"]
+
+[HorizontalSlider "Slider" "Root"]
+Position = Vector2(50, 50)

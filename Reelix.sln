@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reelix", "Reelix\Reelix.csproj", "{A9433FFE-82FD-4A74-BDCB-C8D64D85B900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nodica", "Nodica\Nodica.csproj", "{7E4F0EC4-B066-487D-A7A7-4390C3694EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9433FFE-82FD-4A74-BDCB-C8D64D85B900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9433FFE-82FD-4A74-BDCB-C8D64D85B900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9433FFE-82FD-4A74-BDCB-C8D64D85B900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9433FFE-82FD-4A74-BDCB-C8D64D85B900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4F0EC4-B066-487D-A7A7-4390C3694EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F0EC4-B066-487D-A7A7-4390C3694EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F0EC4-B066-487D-A7A7-4390C3694EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F0EC4-B066-487D-A7A7-4390C3694EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55D6AE2-67E8-46B6-9B3C-B83DC6D76134}
+	EndGlobalSection
+EndGlobal
